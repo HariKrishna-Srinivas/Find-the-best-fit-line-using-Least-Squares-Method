@@ -96,11 +96,9 @@ print("For population of 70,000, we pewdict a profit of $ "+str(round(predict2,0
 ```
 
 ## Output:
-https://user-images.githubusercontent.com/94505585/194759855-c38ae9ac-3ce5-4024-9619-5fddd21d240c.png
-https://user-images.githubusercontent.com/94505585/194759883-be2dd70b-b90f-4197-a079-37a33e12dc7d.png
-https://user-images.githubusercontent.com/94505585/194759906-2a6fb81c-adda-457a-bd9e-99a7590063a3.png
-https://user-images.githubusercontent.com/94505585/194759920-15d3f779-368f-46c0-ad8a-07bed814e831.png
-https://user-images.githubusercontent.com/94505585/194759930-064cefcf-262f-47a9-abc4-3ec317b5c99d.png
+
+![image](https://user-images.githubusercontent.com/94882905/194992270-a19b0599-327f-473c-a7b3-d46a3226a0a4.png)
+
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
